@@ -1,7 +1,0 @@
-<map id="Junya005.Nodevel.Samples.BasicTextPresenter" name="Junya005.Nodevel.Samples.BasicTextPresenter">
-<area shape="rect" id="Node000001" title="TextMeshPro を用いたシンプルな文字送り・クリック待ちの実装サンプル。" alt="" coords="55,96,243,139"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,117,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,49,131,95,126,96,83,54"/>
-<area shape="rect" id="Node000003" href="$interface_junya005_1_1_nodevel_1_1_i_novel_text_presenter.html" title="メッセージウィンドウでのセリフ表示・タイプライター・クリック待ちを行うView層インターフェース。" alt="" coords="140,5,336,48"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,58,171,98,168,94,204,60"/>
-</map>

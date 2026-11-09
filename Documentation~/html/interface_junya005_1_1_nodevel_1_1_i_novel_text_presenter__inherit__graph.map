@@ -1,5 +1,0 @@
-<map id="Junya005.Nodevel.INovelTextPresenter" name="Junya005.Nodevel.INovelTextPresenter">
-<area shape="rect" id="Node000001" title="メッセージウィンドウでのセリフ表示・タイプライター・クリック待ちを行うView層インターフェース。" alt="" coords="5,5,202,48"/>
-<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_samples_1_1_basic_text_presenter.html" title="TextMeshPro を用いたシンプルな文字送り・クリック待ちの実装サンプル。" alt="" coords="9,96,198,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,62,106,97,101,95,102,66"/>
-</map>

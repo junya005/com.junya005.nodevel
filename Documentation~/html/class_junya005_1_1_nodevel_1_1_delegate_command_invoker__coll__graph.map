@@ -1,5 +1,0 @@
-<map id="Junya005.Nodevel.DelegateCommandInvoker" name="Junya005.Nodevel.DelegateCommandInvoker">
-<area shape="rect" id="Node000001" title="デリゲート関数から直接生成可能なコマンドインボーカー。" alt="" coords="11,96,197,139"/>
-<area shape="rect" id="Node000002" href="$interface_junya005_1_1_nodevel_1_1_i_command_invoker.html" title="パース済み引数を受け取ってコマンドを実行するインボーカーのインターフェース。" alt="" coords="5,5,203,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,62,106,97,102,95,102,66"/>
-</map>

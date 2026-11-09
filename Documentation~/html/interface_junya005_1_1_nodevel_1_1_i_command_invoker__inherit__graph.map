@@ -1,7 +1,0 @@
-<map id="Junya005.Nodevel.ICommandInvoker" name="Junya005.Nodevel.ICommandInvoker">
-<area shape="rect" id="Node000001" title="パース済み引数を受け取ってコマンドを実行するインボーカーのインターフェース。" alt="" coords="117,5,314,48"/>
-<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_delegate_command_invoker.html" title="デリゲート関数から直接生成可能なコマンドインボーカー。" alt="" coords="5,96,191,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,57,127,98,124,93,173,58"/>
-<area shape="rect" id="Node000003" href="$class_junya005_1_1_nodevel_1_1_method_command_invoker.html" title="リフレクションで発見されたメソッドのメタデータを事前キャッシュし、高速に呼び出すインボーカー。" alt="" coords="214,96,451,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,55,308,96,303,95,254,60"/>
-</map>

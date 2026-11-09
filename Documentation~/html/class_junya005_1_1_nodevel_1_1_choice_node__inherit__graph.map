@@ -1,7 +1,0 @@
-<map id="Junya005.Nodevel.ChoiceNode" name="Junya005.Nodevel.ChoiceNode">
-<area shape="rect" id="Node000001" title="複数の選択肢をプレイヤーに提示し、選択結果に応じて分岐するノード。" alt="" coords="5,155,211,181"/>
-<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_node_base.html" title="ノードグラフ上に配置される全ノードの抽象基底クラス。" alt="" coords="11,80,205,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,121,110,155,106,153,106,124"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,167,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,45,111,80,105,79,107,50"/>
-</map>

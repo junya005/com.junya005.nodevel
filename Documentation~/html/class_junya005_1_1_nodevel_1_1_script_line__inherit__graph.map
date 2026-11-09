@@ -1,7 +1,0 @@
-<map id="Junya005.Nodevel.ScriptLine" name="Junya005.Nodevel.ScriptLine">
-<area shape="rect" id="Node000001" title="スクリプト内の1行を表す抽象基底クラス。" alt="" coords="170,5,361,32"/>
-<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_script_command_line.html" title="行頭コマンド（例: @bg &#39;classroom&#39; fade=0.5）を表すASTノード。" alt="" coords="5,80,257,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,39,156,82,154,77,226,40"/>
-<area shape="rect" id="Node000003" href="$class_junya005_1_1_nodevel_1_1_script_dialogue_line.html" title="セリフ行またはナレーション（地の文）を表すASTノード。" alt="" coords="280,80,523,107"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,37,380,79,375,79,302,42"/>
-</map>
