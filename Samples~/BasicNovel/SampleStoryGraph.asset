@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6444603460819473673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02ab32561cc56c748aab2820490a9a8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.StartNode
+  _id: start
+  _title: StartNode
+  _position: {x: 50, y: 150}
+--- !u!114 &-4698106390535534958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a050ee6581f39e4783b844ded5d41f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.ChoiceNode
+  _id: choice
+  _title: ChoiceNode
+  _position: {x: 600, y: 150}
+  _choices:
+  - "\u56F3\u66F8\u5BA4\u3078\u884C\u304F"
+  - "\u5C4B\u4E0A\u3078\u884C\u304F"
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d9662b6bdf8db4e89f99c7fc8acb41, type: 3}
+  m_Name: SampleStoryGraph
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.NodevelGraph
+  _nodes:
+  - {fileID: -6444603460819473673}
+  - {fileID: 6905117946985379520}
+  - {fileID: -4698106390535534958}
+  - {fileID: 2571528232125969061}
+  - {fileID: 7700359904078848153}
+  - {fileID: 5299256476204839553}
+  _edges:
+  - FromNodeId: start
+    FromPortIndex: 0
+    ToNodeId: prologue
+    ToPortIndex: 0
+  - FromNodeId: prologue
+    FromPortIndex: 0
+    ToNodeId: choice
+    ToPortIndex: 0
+  - FromNodeId: choice
+    FromPortIndex: 0
+    ToNodeId: library
+    ToPortIndex: 0
+  - FromNodeId: choice
+    FromPortIndex: 1
+    ToNodeId: rooftop
+    ToPortIndex: 0
+  - FromNodeId: library
+    FromPortIndex: 0
+    ToNodeId: end
+    ToPortIndex: 0
+  - FromNodeId: rooftop
+    FromPortIndex: 0
+    ToNodeId: end
+    ToPortIndex: 0
+--- !u!114 &2571528232125969061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89cdbc9225be6b149ae6bfb7c22f2b4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.ScriptNode
+  _id: library
+  _title: ScriptNode
+  _position: {x: 900, y: 50}
+  _scriptText: "@bg 'library' fade=0.5\n\u30A2\u30EA\u30B9: \u9759\u304B\u306A\u56F3\u66F8\u5BA4\u3060\u306D\u3002\u672C\u304C\u305F\u304F\u3055\u3093\u4E26\u3093\u3067\u308B\u3088\u3002\n\u30A2\u30EA\u30B9:
+    \u63A2\u7D22\u6210\u529F\uFF01\u304A\u3081\u3067\u3068\u3046\uFF01"
+--- !u!114 &5299256476204839553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55420648a24d56e4d97f1871aacf4471, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.EndNode
+  _id: end
+  _title: EndNode
+  _position: {x: 1200, y: 150}
+--- !u!114 &6905117946985379520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89cdbc9225be6b149ae6bfb7c22f2b4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.ScriptNode
+  _id: prologue
+  _title: ScriptNode
+  _position: {x: 213, y: 150}
+  _scriptText: "@bg 'classroom' fade=0.5\n\u30A2\u30EA\u30B9: \u3084\u3042\uFF01Nodevel\u306E\u4E16\u754C\u3078\u3088\u3046\u3053\u305D\uFF01\n\u30A2\u30EA\u30B9:
+    \u3053\u306E\u30D1\u30C3\u30B1\u30FC\u30B8\u306F\u3001\u30CE\u30FC\u30C9\u30B0\u30E9\u30D5\u3068\u30C6\u30AD\u30B9\u30C8\u30B9\u30AF\u30EA\u30D7\u30C8\u3067\u52D5\u3044\u3066\u3044\u308B\u3093\u3060\u3088\u3002\n\u30CA\u30EC\u30FC\u30B7\u30E7\u30F3:
+    \u30A2\u30EA\u30B9\u306F\u8A87\u3089\u3057\u3052\u306B\u5FAE\u7B11\u3093\u3060\u3002\n\u30A2\u30EA\u30B9:
+    \u3053\u308C\u304B\u3089\u3069\u3063\u3061\u306E\u90E8\u5C4B\u3092\u63A2\u7D22\u3057\u3066\u307F\u308B\uFF1F"
+--- !u!114 &7700359904078848153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89cdbc9225be6b149ae6bfb7c22f2b4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Junya005.Nodevel.Runtime::Junya005.Nodevel.Graph.Nodes.ScriptNode
+  _id: rooftop
+  _title: ScriptNode
+  _position: {x: 900, y: 250}
+  _scriptText: "@bg 'rooftop' fade=0.5\n\u30A2\u30EA\u30B9: \u308F\u3042\u3001\u98A8\u304C\u6C17\u6301\u3061\u3044\u3044\uFF01\u9752\u7A7A\u304C\u5E83\u304C\u3063\u3066\u308B\u306D\u3002\n\u30A2\u30EA\u30B9:
+    \u7D20\u6575\u306A\u666F\u8272\u304C\u898B\u3089\u308C\u305F\u306D\uFF01"

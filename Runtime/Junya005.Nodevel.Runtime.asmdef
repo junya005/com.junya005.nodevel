@@ -1,0 +1,21 @@
+{
+  "name": "Junya005.Nodevel.Runtime",
+  "rootNamespace": "Junya005.Nodevel",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.localization",
+      "expression": "",
+      "define": "NODEVEL_SUPPORT_LOCALIZATION"
+    }
+  ],
+  "noEngineReferences": false
+}
+

@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.ScriptCommandLine" name="Junya005.Nodevel.ScriptCommandLine">
+<area shape="rect" id="Node000001" title="行頭コマンド（例: @bg &#39;classroom&#39; fade=0.5）を表すASTノード。" alt="" coords="5,80,257,107"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_script_line.html" title="スクリプト内の1行を表す抽象基底クラス。" alt="" coords="35,5,227,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,46,133,81,129,78,129,50"/>
+</map>

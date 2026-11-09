@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.Editor.NodevelNodeView" name="Junya005.Nodevel.Editor.NodevelNodeView">
+<area shape="rect" id="Node000001" title="GraphView 上でのノード表示および要約プレビューを司るコンパクトなビュークラス。 詳細プロパティの編集は Node Settings パネル側で行われます。" alt="" coords="5,80,177,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,117,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,46,94,81,88,79,89,50"/>
+</map>

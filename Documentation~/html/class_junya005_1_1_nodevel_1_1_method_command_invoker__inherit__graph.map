@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.MethodCommandInvoker" name="Junya005.Nodevel.MethodCommandInvoker">
+<area shape="rect" id="Node000001" title="リフレクションで発見されたメソッドのメタデータを事前キャッシュし、高速に呼び出すインボーカー。" alt="" coords="5,96,242,139"/>
+<area shape="rect" id="Node000002" href="$interface_junya005_1_1_nodevel_1_1_i_command_invoker.html" title="パース済み引数を受け取ってコマンドを実行するインボーカーのインターフェース。" alt="" coords="25,5,222,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,62,126,97,121,95,122,66"/>
+</map>

@@ -1,0 +1,19 @@
+{
+  "name": "com.junya005.nodevel",
+  "version": "0.1.0",
+  "displayName": "Nodevel",
+  "description": "Headless Novel Adventure Engine for Unity 6 featuring Node Graph and Text DSL.",
+  "unity": "6000.3",
+  "author": {
+    "name": "junya005"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Novel Sample",
+      "description": "A minimal novel game sample using uGUI, TextMeshPro, and Nodevel engine.",
+      "path": "Samples~/BasicNovel"
+    }
+  ]
+}
+

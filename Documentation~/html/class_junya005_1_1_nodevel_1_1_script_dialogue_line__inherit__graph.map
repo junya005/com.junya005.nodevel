@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.ScriptDialogueLine" name="Junya005.Nodevel.ScriptDialogueLine">
+<area shape="rect" id="Node000001" title="セリフ行またはナレーション（地の文）を表すASTノード。" alt="" coords="5,80,248,107"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_script_line.html" title="スクリプト内の1行を表す抽象基底クラス。" alt="" coords="31,5,222,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,46,129,81,124,78,125,50"/>
+</map>

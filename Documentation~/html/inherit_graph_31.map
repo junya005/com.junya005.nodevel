@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,111,107"/>
+<area shape="rect" id="Node000001" href="$class_junya005_1_1_nodevel_1_1_editor_1_1_blackboard_view.html" title="グラフ全体で使用される変数を一覧管理・定義する Blackboard UI コンポーネント。" alt="" coords="159,5,330,48"/>
+<area shape="poly" id="edge27_Node000000_Node000001" title=" " alt="" coords="111,72,184,47,181,50,113,77"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_editor_1_1_graph_inspector_panel.html" title="GraphView 上にフロート表示される、Node Settings と Blackboard を内包したプロパティインスペクタパネル。 ドラッグによる移動、タブ切り替え、開閉トグルに対応します。" alt="" coords="159,72,330,115"/>
+<area shape="poly" id="edge28_Node000000_Node000002" title=" " alt="" coords="126,91,160,92,156,94,127,96"/>
+<area shape="rect" id="Node000003" href="$class_junya005_1_1_nodevel_1_1_editor_1_1_node_settings_view.html" title="選択中ノードの詳細プロパティ編集およびグラフ設定を表示する UI コンポーネント。" alt="" coords="159,139,330,181"/>
+<area shape="poly" id="edge29_Node000000_Node000003" title=" " alt="" coords="112,110,185,137,180,139,111,115"/>
+</map>

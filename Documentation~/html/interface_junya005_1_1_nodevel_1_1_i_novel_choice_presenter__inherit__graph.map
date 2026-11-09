@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.INovelChoicePresenter" name="Junya005.Nodevel.INovelChoicePresenter">
+<area shape="rect" id="Node000001" title="選択肢一覧を表示し、プレイヤーの選択結果を受け付けるView層インターフェース。" alt="" coords="5,5,218,48"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_samples_1_1_basic_choice_presenter.html" title="uGUI Button を動的に配置して選択肢を受け付ける実装サンプル。" alt="" coords="17,96,206,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,62,114,97,109,95,110,66"/>
+</map>

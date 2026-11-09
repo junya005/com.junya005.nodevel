@@ -1,0 +1,27 @@
+{
+    "name": "Junya005.Nodevel.Samples",
+    "rootNamespace": "Junya005.Nodevel.Samples",
+    "references": [
+        "Junya005.Nodevel.Runtime",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ENABLE_INPUT_SYSTEM"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.18.0",
+            "define": "ENABLE_INPUT_SYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}

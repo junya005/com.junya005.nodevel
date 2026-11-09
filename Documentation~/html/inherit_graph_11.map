@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_junya005_1_1_nodevel_1_1_i_novel_choice_presenter.html" title="選択肢一覧を表示し、プレイヤーの選択結果を受け付けるView層インターフェース。" alt="" coords="5,5,218,48"/>
+<area shape="rect" id="Node000001" href="$class_junya005_1_1_nodevel_1_1_samples_1_1_basic_choice_presenter.html" title="uGUI Button を動的に配置して選択肢を受け付ける実装サンプル。" alt="" coords="266,5,454,48"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="233,24,268,26,263,28,234,29"/>
+<area shape="rect" id="Node000005" href="$interface_junya005_1_1_nodevel_1_1_i_novel_text_presenter.html" title="メッセージウィンドウでのセリフ表示・タイプライター・クリック待ちを行うView層インターフェース。" alt="" coords="13,139,210,181"/>
+<area shape="rect" id="Node000004" href="$class_junya005_1_1_nodevel_1_1_samples_1_1_basic_text_presenter.html" title="TextMeshPro を用いたシンプルな文字送り・クリック待ちの実装サンプル。" alt="" coords="266,139,454,181"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="225,157,268,160,263,160,225,163"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="56,80,167,107"/>
+<area shape="poly" id="edge9_Node000002_Node000001" title=" " alt="" coords="178,73,280,47,275,50,180,78"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="179,109,280,137,275,139,179,114"/>
+<area shape="rect" id="Node000003" href="$class_junya005_1_1_nodevel_1_1_samples_1_1_basic_novel_game_runner.html" title="Nodevel ノードグラフをシーン内で実行するエントリーポイントサンプル。" alt="" coords="266,72,454,115"/>
+<area shape="poly" id="edge10_Node000002_Node000003" title=" " alt="" coords="182,91,268,92,263,94,183,96"/>
+</map>

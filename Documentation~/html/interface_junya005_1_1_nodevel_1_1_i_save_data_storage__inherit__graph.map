@@ -1,0 +1,5 @@
+<map id="Junya005.Nodevel.ISaveDataStorage" name="Junya005.Nodevel.ISaveDataStorage">
+<area shape="rect" id="Node000001" title="セーブデータの永続化（ローカルファイル、クラウドセーブ、暗号化ストレージ等）を抽象化するインターフェース。" alt="" coords="5,5,201,48"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_local_file_save_data_storage.html" title="ローカルディスクへのアトミック書き込みを提供するセーブデータストレージ実装。" alt="" coords="10,96,196,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,62,105,97,101,95,101,66"/>
+</map>

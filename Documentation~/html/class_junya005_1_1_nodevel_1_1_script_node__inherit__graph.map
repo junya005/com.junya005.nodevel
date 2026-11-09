@@ -1,0 +1,7 @@
+<map id="Junya005.Nodevel.ScriptNode" name="Junya005.Nodevel.ScriptNode">
+<area shape="rect" id="Node000001" title="テキストスクリプト（セリフ・演出コマンド）を実行するノード。" alt="" coords="5,155,204,181"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_node_base.html" title="ノードグラフ上に配置される全ノードの抽象基底クラス。" alt="" coords="7,80,202,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,121,107,155,102,153,103,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="46,5,163,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,45,107,80,102,79,103,50"/>
+</map>

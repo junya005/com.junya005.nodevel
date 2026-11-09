@@ -1,0 +1,19 @@
+{
+  "name": "Junya005.Nodevel.Editor",
+  "rootNamespace": "Junya005.Nodevel.Editor",
+  "references": [
+    "Junya005.Nodevel.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

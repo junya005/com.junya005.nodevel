@@ -1,0 +1,7 @@
+<map id="Junya005.Nodevel.ConditionNode" name="Junya005.Nodevel.ConditionNode">
+<area shape="rect" id="Node000001" title="変数の条件式を評価し、TrueまたはFalseの出力ポートへ分岐するノード。" alt="" coords="5,155,225,181"/>
+<area shape="rect" id="Node000002" href="$class_junya005_1_1_nodevel_1_1_node_base.html" title="ノードグラフ上に配置される全ノードの抽象基底クラス。" alt="" coords="18,80,212,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,121,117,155,113,153,113,124"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="56,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,45,118,80,112,79,114,50"/>
+</map>
